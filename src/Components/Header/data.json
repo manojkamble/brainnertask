@@ -1,0 +1,16 @@
+[
+    {
+    "id":1,
+    "img":"https://drive.google.com/uc?id=18KkAVkGFvaGNqPy2DIvTqmUH_nk39o3z",
+    "Name": "Apple",
+    "price":"₹ 20000"
+    
+} ,
+{
+    "id":2,
+    "img":"https://drive.google.com/uc?id=18KkAVkGFvaGNqPy2DIvTqmUH_nk39o3z",
+    "Name": "SAMSUNG",
+    "price":"₹ 4000"
+    
+} 
+]
